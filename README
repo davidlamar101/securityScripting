@@ -1,0 +1,2 @@
+The WMIDetection.py 
+    sample demonstrates the use of Windows Event logs to detect the user of WMI for code executable. This code identifies process creation events and output the executable name and PID
