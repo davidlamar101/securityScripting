@@ -1,0 +1,11 @@
+Start up Docker in Terminal 
+docker-compose up -d
+
+Shut down Docker in Terminal
+docker-compose down
+
+Greeting
+http://127.0.0.1:5000/
+
+Random Advice
+http://localhost:5000/advice
